@@ -1,0 +1,2 @@
+# Arcade_Pong_Game
+Pong is one of the first computer games that ever created. This simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent. The game can be played with two human players. The game was originally developed by Allan Alcorn and released in 1972 by Atari corporations. Soon, Pong became a huge success, and became the first commercially successful game, on 1975, Atari release a home edition of Pong.
